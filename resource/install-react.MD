@@ -1,6 +1,7 @@
 
 ##  For Ubuntu/Linux
 
+
 ###  Step 1: Installing NPM in Ubuntu
 ```
 sudo apt install npm
